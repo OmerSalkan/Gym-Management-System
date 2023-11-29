@@ -6,6 +6,6 @@ e<!DOCTYPE html>
     <title>Test</title>
 </head>
 <body>
-    <h1>Wellcomeeeeee</h1>
+    <h1>Wellcome</h1>
 </body>
 </html>
